@@ -1,3 +1,3 @@
-print("Hello Git guaguau puto")
+print("New hellow git")
 
 
